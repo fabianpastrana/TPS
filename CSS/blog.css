@@ -1,0 +1,29 @@
+#blog h3, h4{
+    text-align: center;
+
+}
+#blog h5{
+text-align: center;
+width: 50%;
+height: 50px;
+background: #333;
+color: #fff;
+}
+
+#blog .contenedor {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+#blog article{
+    margin: 15px;
+}
+#blog img{
+    width: 250%;
+    height: 100%;
+    max-width: 280px;
+}
+
+  
+  
+
